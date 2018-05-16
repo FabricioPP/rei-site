@@ -1,0 +1,17 @@
+#goTopBtn{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    cursor: pointer;
+    padding: 15px 5px;
+    border-radius: 10px;
+}
+#goTopBtn:hover{
+    background-color: #555;
+}

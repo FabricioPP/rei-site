@@ -1,0 +1,170 @@
+body{
+    background-color: rgb(67, 175, 221);
+}
+.topnav{
+    background-color: rgba(0, 0, 0, 0.747);
+}
+.principal{
+    background-color: rgb(255, 255, 255);
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+.principal h4{
+    margin-left: 10px;
+}
+.principal a{
+    text-decoration: none;
+    color: white;
+    
+}
+.texto{
+    text-align: center;
+    /*background-color:  rgba(165, 165, 165, 0.829);*/
+    background: url("../images/background2.jpg") no-repeat;
+    padding: 20px;
+}
+.texto h2{
+    color: black;
+}
+.texto p{
+    color: black;
+}
+.container-cards-servicos{
+    width: 100%;
+    margin: auto;
+}
+.img-box img.img-default{
+    width: 80%;
+}
+.img-box img.img-hover{
+    display: none;
+    width: 80%;
+}
+.img-box:hover img.img-default{
+    display: none;
+}
+.img-box:hover img.img-hover{
+    display: block;
+    margin: auto;
+}
+.card-servicos{
+    width: 30%;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear: left;
+}
+.texto-card-servicos a{
+    text-decoration: none;
+    color: white;
+}
+
+.texto-card-servicos a:hover{
+    color: #000;
+}
+
+.servicos{
+    margin-top: 80px;
+    background: white;
+    padding: 10px;
+    transition: 0.5s;
+    overflow: hidden;
+}
+#articImg{
+    width: 40%;
+    margin: 20px;
+    float: left;
+}
+#articImgRefatora{
+    width: 20%;
+    margin: 20px;
+    float: left;
+}
+.texto-servicos{
+    padding: 20px;
+}
+.texto-servicos h3{
+    text-align: center;
+    color: darkblue;
+}
+.servicos button a{
+    text-decoration: none;
+    color: white;
+}
+.btn-center{
+    text-align: center;
+}
+#articLoja, 
+#articSeo, 
+#articSite,
+#articRefatora,
+#articSolucoes{
+    display: none;
+}
+.container-cards-servicos button{
+    background-color: none;
+}
+ul{
+    list-style-type: disc;
+}
+
+@media screen and (max-width: 640px){
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a:nth-child(3) {display: block;}
+    .card-servicos{
+        text-align: center;
+        width: 90%;
+        margin-left: 0;
+    }
+    .texto-card-servicos a p{
+        text-align: right;
+    }
+    .img-box img{
+        float: left;
+        width: 50%;
+    }
+    #articImg{
+        width: 90%;
+        float: none;
+    }
+    #articImgRefatora{
+        width: 90%;
+        float: none;
+    }
+    figure{
+        vertical-align: middle;
+    }
+    img{
+        max-width: 90%;
+    }
+    .img-box img.img-hover{
+        width: 50%;
+    }
+    .img-box img.img-default{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 640px) and (orientation: landscape){
+    #articImg{
+        width: 40%;
+        float: left;
+    }
+    .texto-card-servicos a p{
+        text-align: center;
+    }
+    .img-box img{
+        float: none;
+        width: 100%;
+    }
+    .card-servicos{
+        text-align: center;
+        width: 40%;
+        padding: 10px;
+        margin-left: 0;
+    }
+}

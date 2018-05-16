@@ -1,0 +1,30 @@
+body{
+    background-color:  rgb(67, 175, 221);
+}
+.container{
+    background-color: white;
+    max-width: 95%;
+    text-align: center;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+figure{
+    float: right;
+    width: 30%;
+    background-color: lightgrey;
+    border:  1px solid black;
+    padding: 10px;
+    margin-left: 15px;
+}
+figure img{
+    width: 100%;
+}
+@media screen and (max-width: 640px){
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a:nth-child(4) {display: block;}
+    figure{
+        width: 100%;
+    }
+}

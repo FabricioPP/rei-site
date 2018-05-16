@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+
+         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://reisiteteste.000webhostapp.com/index.php/</loc>
+
+      <lastmod>2018-05-10</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+        <loc>https://reisiteteste.000webhostapp.com/servicos.php</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/servicos.php?val=1</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/servicos.php?val=2</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/servicos.php?val=3</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/servicos.php?val=4</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/servicos.php?val=5</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/sobre.php</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>    
+   <url>
+        <loc>https://reisiteteste.000webhostapp.com/contato.php</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/contato.php?orcar=1</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/contato.php?orcar=2</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/contato.php?orcar=3</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/contato.php?orcar=4</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+    <url>
+        <loc>https://reisiteteste.000webhostapp.com/contato.php?orcar=5</loc>
+
+        <changefreq>monthly</changefreq>
+   </url>
+
+
+	
+
+</urlset>
