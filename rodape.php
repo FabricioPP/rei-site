@@ -41,10 +41,10 @@
 			</li>
 		</ul>
 		<div class="icons-social">
-			<a href="#" class="fa fa-facebook"></a>
+			<a href="https://facebook.com/fabricio.patrocinio" class="fa fa-facebook"></a>
 			<a href="#" class="fa fa-twitter"></a>
 			<a href="#" class="fa fa-skype"></a>
-			<a href="#" class="fa fa-google"></a>
+			<a href="https://plus.google.com/u/0/116604956830265832124" class="fa fa-google"></a>
 		</div>
 	</footer>
 
