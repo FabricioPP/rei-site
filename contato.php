@@ -1,5 +1,5 @@
     <?php 
-        $title = '<title>Contato - Faça seu orçamento - Rei - Empresa de Criação e Desenvolvimento de Sites</title>';
+        $title = '<title>Contato - Faça seu orçamento</title>';
         $addCss = '<link href="css/contatos.css" rel="stylesheet" />';
         $page = 'contato';
         include 'cabecalho.php';

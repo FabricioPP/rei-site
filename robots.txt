@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /index
+Allow: /servicos
+Allow: /contato
+Allow: /sobre
+
+Sitemap: https://reisiteteste.000webhostapp.com/sitemap.xml

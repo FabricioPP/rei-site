@@ -1,5 +1,5 @@
 <?php 
-    $title = '<title>Sobre a empresa - Rei - Empresa de Criação e Desenvolvimento de Sites</title>';
+    $title = '<title>Sobre a empresa</title>';
     $addCss = '<link rel="stylesheet" href="css/sobre.css"/>';
     $page = 'sobre';
     include 'cabecalho.php'?>

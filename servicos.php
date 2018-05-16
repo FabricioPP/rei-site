@@ -2,7 +2,7 @@
 <php>
 
     <?php
-        $title = '<title>Serviços - Rei - Empresa de Criação e Desenvolvimento de Sites</title>';
+        $title = '<title>Serviços</title>';
         $addCss = '<link rel="stylesheet" href="css/servicos.css" />';
         $page = 'servicos'; 
         include 'cabecalho.php' ?>

@@ -1,7 +1,7 @@
 <php>
 
 	<?php
-	$title = '<title>Rei - Empresa de Criação e Desenvolvimento de Sites</title>';
+	$title = '<title>Criação de sites - Rei Criação e desenvolvimento de Websites</title>';
 	$page = 'home';
 	include 'cabecalho.php' ?>
 

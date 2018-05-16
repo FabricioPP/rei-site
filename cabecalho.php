@@ -12,12 +12,10 @@
 	</script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="keywords" content="site, Site, Website, Loja Virtual, Lojas Virtuais, E-commerce, Otimização SEO, SEO, Paraguaçu, Minas Gerais
-									Site sul de minas, criação de sites, paraguaçu, alfenas, varginha, desenvolvimento de sites, desenvolvimento de websites">
-	<meta name="description" content="A Rei é uma empresa que trabalhar com criação e desenvolvimento de sites, E-commerce, refatoração de sites, 
-										e desenvolvimento de sistemas web em Paraguaçu-MG. Contamos com profissionais formados e responsáveis, preparados para
-										desenvolver o melhor para você e sua empresa.">
+	<meta name="description" content="A Rei é uma empresa que trabalha com criação e desenvolvimento de sites, E-commerce, refatoração de sites, 
+										e desenvolvimento de sistemas web em Paraguaçu-MG.">
 	<meta http-equiv="Content-Language" content="pt-br">
+	<meta name="robots" content="INDEX,FOLLOW" />
 	<meta name="author" content="Fabrício Pena Patrocínio"
 </head>
 
