@@ -53,8 +53,8 @@
 			</div>
 
 		</div>
-		<section class="textoCall">
-			<p>Somos uma
+		<section class="textoCall" data-wow-duration="1s">
+			<p class="wow fadeInUp">Somos uma
 				<strong style="color: darkblue">empresa</strong> de criação de sites e desenvolvimento de soluções web. Criamos sites, loja virtuais e sistemas web para
 				que a tecnologia trabalhe a seu favor. Somos uma empresa, focada em aumentar os
 				<strong style="color: darkblue">resultados do seu negócio</strong>.</p>
@@ -65,7 +65,7 @@
 				<a href="#">Serviços</a>
 			</h3>
 			<div class="container-cards">
-				<div class="card wow fadeInLeft" data-wow-duration="2s">
+				<div class="card wow fadeInLeft" data-wow-duration="1s">
 					<img src="images/site_card.png" alt="Site" style="width: 100%">
 					<div class="container">
 						<h4>Criação de Site</h4>
@@ -75,7 +75,7 @@
 						</button>
 					</div>
 				</div>
-				<div class="card wow fadeInLeft" data-wow-duration="2s">
+				<div class="card wow fadeInLeft" data-wow-duration="1s">
 					<img src="images/lojavirtual_card.png" alt="Site" style="width: 100%">
 					<div class="container">
 						<h4>Lojas Virtuais</h4>
@@ -85,7 +85,7 @@
 						</button>
 					</div>
 				</div>
-				<div class="card wow fadeInRight" data-wow-duration="2s">
+				<div class="card wow fadeInRight" data-wow-duration="1s">
 					<img src="images/seo_card.png" alt="Site" style="width: 100%">
 					<div class="container">
 						<h4>Otimização de SEO</h4>
@@ -95,7 +95,7 @@
 						</button>
 					</div>
 				</div>
-				<div class="card wow fadeInRight" data-wow-duration="2s">
+				<div class="card wow fadeInRight" data-wow-duration="1s">
 					<img src="images/solucoes_web_card.png" alt="Site" style="width: 100%">
 					<div class="container">
 						<h4>Sistemas Web</h4>

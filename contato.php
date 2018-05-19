@@ -1,6 +1,7 @@
     <?php 
         $title = '<title>Contato - Faça seu orçamento</title>';
-        $addCss = '<link href="css/contatos.css" rel="stylesheet" />';
+        $addCss = '<link href="css/contatos.css" rel="stylesheet" />
+                    <link rel="stylesheet" href="css/animate.css">';
         $page = 'contato';
         include 'cabecalho.php';
 
@@ -78,7 +79,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-sm-12 col-md-4 col-lg-3 contato" align="center">
+                    <div class="col-sm-12 col-md-4 col-lg-3 contato wow fadeInLeft" align="center">
                         <h4>Horário de funcionamento:</h4>
                         <p>
                             De segunda a sábado:
@@ -86,7 +87,7 @@
                         </p>
                     </div>
 
-                    <div class="col-sm-12 col-md-4 col-lg-3 contato" align="center">
+                    <div class="col-sm-12 col-md-4 col-lg-3 contato wow fadeInUp" align="center">
                         <h4>Endereço:</h4>
                         <p>
                             Rua das Hortências, 75
@@ -95,7 +96,7 @@
                             <br/>CEP: 37120-000
                         </p>
                     </div>
-                    <div class="col-sm-12 col-md-4 col-lg-3 contato" align="center">
+                    <div class="col-sm-12 col-md-4 col-lg-3 contato wow fadeInRight" align="center">
                         <h4>Telefone:</h4>
                         <p>
                             (35) 98443-4914
@@ -107,6 +108,9 @@
         </div>
     <?php $addScript = '<script src="js/jquery.mask.js"></script>
                         <script src="https://www.google.com/recaptcha/api.js"></script>
-                        ';
+                        <script src="js/wow.min.js"></script>
+                        <script>
+                            new WOW().init();
+                        </script>';
     include 'rodape.php'
     ?>
